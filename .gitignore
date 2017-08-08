@@ -1,0 +1,13 @@
+**/build/
+/local.properties
+.DS_Store
+
+# Gradle files
+gradle/
+.gradle/
+
+# Intellij
+*.iml
+.idea/
+
+
